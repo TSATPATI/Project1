@@ -1,0 +1,52 @@
+CustomerID,CustomerName,LocationCity,LocationZip,LocationCountry,Age,Gender,RegistrationDate
+45159,Castor Garner,Pramaggiore,720,Saint Barthélemy,23,M,2016-08-25T19:20:41-07:00
+31180,Gwendolyn Kerr,Teralfene,7921,Hungary,47,X,2015-12-04T01:29:13-08:00
+90033,Barrett Mcneil,Daska,99-036,Poland,46,X,2017-05-15T12:05:27-07:00
+95736,Clayton Houston,Hameln,82091,India,X,M,2016-06-13T10:16:29-07:00
+73335,Morgan Zamora,Tulita,903013,Czech Republic,59,M,2016-02-05T20:23:25-08:00
+69404,Kenneth Rosales,Leers-et-Fosteau,91357,Ecuador,32,X,2017-04-12T00:20:46-07:00
+68976,Brody Salinas,High Level,06480-754,Dominica,43,F,2017-05-30T13:15:46-07:00
+57479,Haley Benjamin,E_k,8892,Montenegro,X,X,2016-10-29T05:30:15-07:00
+28462,Dante Mueller,Campolieto,4139,Mexico,75,M,2016-03-14T04:45:50-07:00
+38513,Sheila Mcleod,Heerlen,90713,Pakistan,43,M,2016-05-14T10:58:40-07:00
+39994,Jocelyn Booth,Malbaie,4650,Zimbabwe,60,X,2015-09-29T23:55:04-07:00
+24154,Hedwig Sanchez,Calice al Cornoviglio,89812,Latvia,53,X,2016-08-23T12:37:45-07:00
+58515,Janna Hutchinson,Mesoraca,9983,Algeria,49,F,2017-08-11T22:48:58-07:00
+80784,Bernard Kent,Pievepelago,85068-961,Honduras,30,U,2017-05-01T05:09:16-07:00
+64920,Rae Hines,Orhangazi,68406,"Palestine,
+ State of",30,X,2015-12-22T07:16:00-08:00
+93425,Jenna Vazquez,Rimouski,1490,Sri Lanka,40,M,2017-06-24T18:26:49-07:00
+60955,Wade Reyes,Allumiere,18121,Saint Pierre and Miquelon,86,F,2017-01-28T07:47:03-08:00
+84960,Velma Wilson,Rockville,52974,Mauritius,44,X,2016-07-13T18:08:56-07:00
+14896,Joy Shelton,Essen,3944,Argentina,82,U,2017-05-05T12:59:02-07:00
+35351,Judah Fletcher,Snellegem,6706,Comoros,78,U,2016-02-06T02:50:45-08:00
+21233,Linda Savage,Giurdignano,3749BY,Niger,31,X,2015-12-08T02:16:16-08:00
+61582,Thor Glass,,87028-938,Sierra Leone,49,X,2016-03-24T03:27:34-07:00
+20142,Nayda Gamble,Verzegnis,3949,Ethiopia,.,X,2016-06-01T16:24:32-07:00
+56839,Nina Sellers,Aurillac,753952,Niue,73,X,2017-09-09T22:49:48-07:00
+14560,Abdul Nunez,Horsham,389531,Liechtenstein,27,X,2016-11-21T23:15:32-08:00
+74216,Elton Bullock,Green Bay,654385,Saint Martin,78,U,2015-11-06T10:01:43-08:00
+42044,Channing Poole,Rocca Massima,7057,Viet Nam,39,M,2017-01-14T23:35:17-08:00
+95541,Hope Lott,Arviat,530789,Tuvalu,49,X,2016-03-09T02:54:33-08:00
+79859,Sylvester Ware,Ghlin,40102,Papua New Guinea,67,U,2016-08-18T15:26:08-07:00
+69111,Peter French,Nasino,51551,Swaziland,83,M,2015-10-31T02:28:23-07:00
+53629,Regina Payne,Chicago,93990,Malaysia,67,U,2016-07-16T18:09:49-07:00
+33633,Beverly Luna,Bayeux,,,Bermuda,59,F,2016-12-08T15:16:40-08:00
+52028,Erich Britt,West Vancouver,18009,Malta,67,M,2017-09-25T18:35:43-07:00
+37688,Portia Alexander,Wandre,3645,Tonga,27,U,2017-04-13T01:33:57-07:00
+73386,Allegra Nguyen,,8660BW,Georgia,88,F,2016-03-19T19:51:42-07:00
+25917,Ayanna Forbes,Ospedaletto Lodigiano,668364,Dominican Republic,27,M,2017-08-16T13:08:52-07:00
+28356,Harrison Davidson,Jhelum,340487,Western Sahara,88,F,2015-11-20T01:29:50-08:00
+40700,Shellie Patton,Grande Cache,19154-333,Azerbaijan,79,X,2016-08-17T13:21:34-07:00
+93901,Amanda Sharp,,K7R 4X9,Romania,54,M,2015-12-17T04:50:53-08:00
+40401,Roanna Simmons,Bear,21846,Panama,88,F,2017-09-06T05:23:22-07:00
+19147,Rana Burris,Orp-Jauche,21209,Bermuda,25,U,2016-05-06T08:39:49-07:00
+67491,Edan Hutchinson,,72169,Hong Kong,44,M,2016-10-22T17:54:15-07:00
+61610,Barclay Lancaster,San Benedetto del Tronto,X6X 5P9,Morocco,40,U,2017-08-04T05:04:00-07:00
+66677,Cleo Dillard,Gullegem,949186,Gabon,X,F,2016-09-04T17:11:08-07:00
+52681,Leilani Stone,Marcedusa,88951,Holy See (Vatican City State),81,F,2017-09-23T08:09:34-07:00
+36397,Erich Morton,York,877324,Suriname,,M,2016-07-11T00:47:11-07:00
+91451,Berk Soto,Jemeppe-sur-Meuse,74722,Saint Lucia,83,M,2015-10-24T07:36:40-07:00
+54746,MacKensie Warner,Kamalia,440436,Madagascar,25,F,2016-11-17T02:35:13-08:00
+26836,Bo Wong,Las Condes,665209,Senegal,X,F,2016-05-16T10:38:17-07:00
+20506,Charissa West,Mont-de-Marsan,34418,Portugal,40,U,2017-01-24T07:59:28-08:00
